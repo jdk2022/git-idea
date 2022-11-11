@@ -7,5 +7,6 @@ public class Hello {
         System.out.println("hello maven");
         System.out.println("hello james gosling");
         System.out.println("modified by master");
+        System.out.println("modified by hot-fix");
     }
 }
